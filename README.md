@@ -1,4 +1,4 @@
-# online-edu-logs-analysis
+# Identifying Struggles and Tutorial Impact in Online Education Logs
 Clustering and regression analysis on RIIID education logs to identify student difficulties.
 ___
 
