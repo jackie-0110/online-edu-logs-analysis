@@ -1,5 +1,7 @@
 # Identifying Struggles and Tutorial Impact in Online Education Logs
 Clustering and regression analysis on RIIID education logs to identify student difficulties.
+
+[View the interactive 3D KMeans plot!](https://github.com/jackie-0110/online-edu-logs-analysis/blob/main/KMeans.html)
 ___
 
 ### Abstract
